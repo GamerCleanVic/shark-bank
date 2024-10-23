@@ -1,0 +1,25 @@
+body{
+    background-color: #181818;
+    color: #ccc;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 4px;
+}
+.form1{
+    background-image: url("/archs/shark.jpg");
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgb(80, 25, 131);
+    padding: 12px;
+    border-radius: 5px;
+    width: 300px;
+    height: 308px;
+}
